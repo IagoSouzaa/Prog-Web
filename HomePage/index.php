@@ -16,9 +16,6 @@
     <section class="carousel">
         <div class="carousel-images">
             <img class="carrossel1" src="../Carrossel/Carrossel1.png" alt="Imagem 1">
-            <img class="carrossel2" src="../Carrossel/Carrosel2.png" alt="Imagem 2">
-            <img class="carrossel3" src="../Carrossel/Carrossel3.png" alt="Imagem 3">
-            <img class="carrossel4" src="../Carrossel/Carrossel4.png" alt="Imagem 3">
         </div>
         <button class="prev">←</button>
         <button class="next">→</button>
